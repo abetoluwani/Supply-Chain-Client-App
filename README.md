@@ -2,17 +2,7 @@
  A platform for managing the supply chain and connecting distribution 
  companies and suppliers on one side, and retailers on the other side
 
-System parts:
-1)Mobile app for retailers using Flutter (this)
-2)Web app for suppliers for suppliers using vue.js
-3)Dashboard panel for admins using Laravel and PHP
-4)Database using MySql
-
-It was delivered as my undergraduate project at Yarmouk Private University on 9/3/2024 
-supplements(presentation,document for hole work and timeline)
-
-it was developed using Scrum methodology in 12 weeks 
-
+ 
 # overview
 ![Screenshot 2024-03-07 130718](https://github.com/Nooraldenberkdar/SupplyChain_ClientApp/assets/110327814/def1604f-cd00-49c5-9004-8c2b928efb65)
 ![signUp](https://github.com/Nooraldenberkdar/SupplyChain_ClientApp/assets/110327814/9c18269d-a3f6-4614-87f1-fe352053c577)
